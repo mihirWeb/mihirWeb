@@ -1,13 +1,20 @@
 <!-- <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Image header"> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <div align="center">
-  <h1>Hi there, I'm Mihir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
-</div>
+  <h1>Hey there, I'm Mihir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
 
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/922546367830543705/D1DAA1B25EF68885E6E2556D956C2E00EB5393A3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image header">
+<p align="left">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity. I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles. Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
+  
 
 
 
+ <h2 style="text-align: center; margin: 0;padding: 0;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif" height="100" align="center">
+  About Me
+</h2>
+
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/922546367830543705/D1DAA1B25EF68885E6E2556D956C2E00EB5393A3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image header">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
