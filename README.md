@@ -44,7 +44,7 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 -  ```Fun Fact```: I come up with my own theories of Cosmos because I'm too lazy to Google them
 
 
-
+<br><br>
   
  <h2 style="text-align: center; margin: 0; padding: 0;" align="left">
   <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
@@ -124,3 +124,11 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpd25xajVyamw2ajVoN25lNjJsOWgwaG93MGgyMzlyeHB1eTYxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/200w.webp" height="50" align="center"> Code, Coffee & C(S)potify
+
+
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(1).gif?raw=true" alt="Image header" width="400" align="right">
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
