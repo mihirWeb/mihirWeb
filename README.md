@@ -50,7 +50,6 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 </h2>
 
 
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -123,6 +122,8 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
   </kbd>
 </p>
 
+
+
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpd25xajVyamw2ajVoN25lNjJsOWgwaG93MGgyMzlyeHB1eTYxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/200w.webp" height="50" align="center"> Code, Coffee & C(S)potify
 
 
@@ -134,9 +135,9 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 <p align="center">"If it exists, It can be solved"<br>Let's connect and tackle the challenging problems with fun.</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mihir-pratap-singh-354ab7211/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mihir-pratap-singh-354ab7211/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://mihir0z.framer.website/" ><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://t.me/Specter_777" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mihir-pratap-singh-354ab7211/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mihir0z.framer.website/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://x.com/mihir_ps166" ><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://t.me/Specter_777"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 </div>
