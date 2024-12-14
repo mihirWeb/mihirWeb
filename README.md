@@ -1,5 +1,5 @@
 <!-- <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Image header"> -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTkyanZwNGRzZ2luN2trM3p3NWc3bXJidmhsdWUyMGZodnA4OWlwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X23zTj637vlDt5B6by/giphy.gif" alt="Image header" width="1000">
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download.gif?raw=true" alt="Image header" width="1000">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <div align="center">
   <h1>Hey there, I'm Mihir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
