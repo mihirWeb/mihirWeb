@@ -30,7 +30,7 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 </div>
 
 
-<p align="center">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity.<br> I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
+<p align="center">Ugh... A summary about myself? Not my favorite thing, but here goes!<br> I am a <code>Software Engineer</code> who loves to solve complex and challenging problems in <code>Java</code> with fun unless the bug is a silly mistake.<br>My specialty includes but not limited to making scalable solutions with the <code>MERN stack</code> and developing <code>blockchain applications</code> with <code>Solidity</code>.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsd3h4MXVqMWQwNzNpZGJhY2l4Yzc4MG1naGltaDBubGVwdmc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.webp" height="50" align="center"> About Me
 
