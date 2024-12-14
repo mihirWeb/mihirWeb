@@ -7,18 +7,8 @@
 JJK- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9
 Pikachu gif - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348
 sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif
--->
-<img src="https://github.com/mihirWeb/mihirWeb/blob/main/43679f65-d1ef-4e6d-96c0-26a87214d753.gif?raw=true" alt="Image header" width="1000">
 
-<div align="center">
-  <h1>Hey there, I'm Mihir <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" alt="Smiling Face with Sunglasses" height="55" /></h1>
-</div>
-
-
-<p align="center">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity.<br> I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
-
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsd3h4MXVqMWQwNzNpZGJhY2l4Yzc4MG1naGltaDBubGVwdmc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.webp" height="50" align="center"> About Me
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" height="300">
+![Background with List](https://github.com/mihirWeb/mihirWeb/blob/main/download%20(4).gif?raw=true)
 
 <ul>
   <li>🔭 I’m currently working on ...</li>
@@ -32,6 +22,30 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
   <li>⚡ Fun fact: ...</li>
   <li>⚡ Fun fact: ...</li>
 </ul>
+-->
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/43679f65-d1ef-4e6d-96c0-26a87214d753.gif?raw=true" alt="Image header" width="1000">
+
+<div align="center">
+  <h1>Hey there, I'm Mihir <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" alt="Smiling Face with Sunglasses" height="55" /></h1>
+</div>
+
+
+<p align="center">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity.<br> I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsd3h4MXVqMWQwNzNpZGJhY2l4Yzc4MG1naGltaDBubGVwdmc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.webp" height="50" align="center"> About Me
+
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(4).gif?raw=true" align="right">
+
+-  ```Full-Stack Developer``` | ```Blockchain Developer``` | ```Freelancer```
+-  Currently coding scalable backend solutions at ```IdeaUsher```
+-  Looking forward to contribute in ```Open Source```—feel free to reach out if I can help😉
+-  Ask me about ```Web Dev```, ```Blockchain```, ```Cosmos```, ```Anime```—I build apps faster than I binge anime!
+-  Currently mastering ```Optimization Techniques```, ```DSA``` & refining ```What I already know```
+-  ```Fun Fact```: I come up with my own theories of Cosmos because I'm too lazy to Google them
+
+
+
+  
  <h2 style="text-align: center; margin: 0; padding: 0;" align="left">
   <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
   Skills
