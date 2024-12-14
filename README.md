@@ -132,3 +132,13 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" height="50" align="center"> Let's Connect!
+<p align="center">"If it exists, It can be solved"<br>Let's connect and tackle the challenging problems with fun.</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mihir-pratap-singh-354ab7211/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mihir-pratap-singh-354ab7211/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://mihir0z.framer.website/" ><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://t.me/Specter_777" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+</div>
