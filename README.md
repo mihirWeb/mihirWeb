@@ -1,39 +1,42 @@
-<!-- <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Image header"> -->
-<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download.gif?raw=true" alt="Image header" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Image header">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-<div align="center">
-  <h1>Hey there, I'm Mihir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /></h1>
 
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/922546367830543705/D1DAA1B25EF68885E6E2556D956C2E00EB5393A3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image header">
-<p align="left">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity.<br> I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
-  
-
-
-
- <h2 style="text-align: center; margin: 0;padding: 0;" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif" height="100" align="center">
-  About Me
-</h2>
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHU5bHVoMjhxMW5mMnFpa3B5ZGhjamxob2k1djdlZTIyNXFyOGR4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.webp" alt="Image header" height="500">
+JJK- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9
+Pikachu gif - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348
+sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif
+-->
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/43679f65-d1ef-4e6d-96c0-26a87214d753.gif?raw=true" alt="Image header" width="1000">
+
+<div align="center">
+  <h1>Hey there, I'm Mihir <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" alt="Smiling Face with Sunglasses" height="55" /></h1>
+</div>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
+<p align="center">A full-stack developer who codes like it’s a workout – pushing limits, breaking a sweat, and occasionally debugging my sanity.<br> I specialize in building scalable solutions with the MERN stack and flexing my Java-powered DSA muscles.<br> Fun to work with? Absolutely. Unless there’s no coffee – then you’re on your own.</p>
 
-  <h2 style="text-align: center; margin: 0;padding: 0;" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif" height="100" align="center">
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsd3h4MXVqMWQwNzNpZGJhY2l4Yzc4MG1naGltaDBubGVwdmc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.webp" height="50" align="center"> About Me
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" height="300">
+
+<ul>
+  <li>🔭 I’m currently working on ...</li>
+  <li>🌱 I’m currently learning ...</li>
+  <li>👯 I’m looking to collaborate on ...</li>
+  <li>🤔 I’m looking for help with ...</li>
+  <li>💬 Ask me about ...</li>
+  <li>📫 How to reach me: ...</li>
+  <li>😄 Pronouns: ...</li>
+  <li>⚡ Fun fact: ...</li>
+  <li>⚡ Fun fact: ...</li>
+  <li>⚡ Fun fact: ...</li>
+</ul>
+ <h2 style="text-align: center; margin: 0; padding: 0;" align="left">
+  <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
   Skills
 </h2>
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="300">
 
 <p style="display: inline-block;" align="center">
