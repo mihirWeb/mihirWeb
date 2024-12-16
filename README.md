@@ -46,6 +46,15 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 -  ```Fun Fact```: I come up with my own theories of Cosmos because I'm too lazy to Google them
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 December 2024 - To: 15 December 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
   
