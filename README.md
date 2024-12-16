@@ -45,6 +45,9 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 -  Currently mastering ```Optimization Techniques```, ```DSA``` & refining ```What I already know```
 -  ```Fun Fact```: I come up with my own theories of Cosmos because I'm too lazy to Google them
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   
  <h2 style="text-align: center; margin: 0; padding: 0;" align="left">
   <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
