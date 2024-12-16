@@ -40,11 +40,10 @@ jobs:
           AUTHOR_NAME: Mihir # optional
           AUTHOR_EMAIL: mihirpratapsingh166@gmail.com # optional
           # you can populate email-id with secrets instead
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "true"
           SHOW_COMMIT: "true"
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
-          SHOW_PROJECTS: "true"
           SHOW_SHORT_INFO: "true"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
