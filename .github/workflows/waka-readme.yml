@@ -44,10 +44,6 @@ jobs:
           SHOW_COMMIT: "true"
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
-<<<<<<< HEAD
-          # SHOW_PROJECTS: "true"
-=======
->>>>>>> de01f2475980d299def81467d3f4fd887cd8c3ce
           SHOW_SHORT_INFO: "true"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
