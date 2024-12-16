@@ -48,6 +48,8 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 0 secs
+
 No activity tracked
 ```
 
