@@ -24,19 +24,19 @@ jobs:
           # SHOW_TITLE: true # optional
           # SECTION_NAME: waka # optional
           # CODE_LANG: rust # optional
-          # TIME_RANGE: all_time # optional
-          # LANG_COUNT: 10 # optional
-          # SHOW_TIME: true # optional
-          # SHOW_TOTAL: true # optional
-          # SHOW_MASKED_TIME: false # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
           # STOP_AT_OTHER: true # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
           # ### commit
-          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          # TARGET_BRANCH: master # optional
-          # TARGET_PATH: README.md # optional
-          # COMMITTER_NAME: GitHubActionBot # optional
-          # COMMITTER_EMAIL: action-bot@github.com # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Mihir # optional
           AUTHOR_EMAIL: mihirpratapsingh166@gmail.com # optional
           # you can populate email-id with secrets instead
@@ -44,7 +44,7 @@ jobs:
           SHOW_COMMIT: "true"
           SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
-          SHOW_PROJECTS: "true"
+          # SHOW_PROJECTS: "true"
           SHOW_SHORT_INFO: "true"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
