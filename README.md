@@ -8,6 +8,8 @@ JJK- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406e
 Pikachu gif - https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348
 sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpNmg0djNjdXc3NTJvcm53NTB5Y3Z5bTE2eWU5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LOEgEYZHyGbXY8KgA3/giphy.gif
 
+Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(4).gif?raw=true" align="right" width="400">
+
 ![Background with List](https://github.com/mihirWeb/mihirWeb/blob/main/download%20(4).gif?raw=true)
 
 <ul>
@@ -34,7 +36,7 @@ sinchan gif - https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMyNW84djRkcjBpN
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsd3h4MXVqMWQwNzNpZGJhY2l4Yzc4MG1naGltaDBubGVwdmc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.webp" height="50" align="center"> About Me
 
-<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(4).gif?raw=true" align="right" width="400">
+
 
 -  ```Full-Stack Developer``` | ```Blockchain Developer``` | ```Freelancer```
 -  Currently coding scalable backend solutions at ```IdeaUsher```
