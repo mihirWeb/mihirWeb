@@ -25,7 +25,7 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
   <li>⚡ Fun fact: ...</li>
 </ul>
 -->
-<img src="https://github.com/mihirWeb/mihirWeb/blob/main/43679f65-d1ef-4e6d-96c0-26a87214d753.gif?raw=true" alt="Image header" width="1000">
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/assets/43679f65-d1ef-4e6d-96c0-26a87214d753.gif?raw=true" alt="Image header" width="1000">
 
 <div align="center">
   <h1>Hey there, I'm Mihir <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" alt="Smiling Face with Sunglasses" height="55" /></h1>
@@ -67,7 +67,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
   
  <h2 style="text-align: center; margin: 0; padding: 0;" align="left">
-  <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
+  <img src="https://github.com/mihirWeb/mihirWeb/blob/main/assets/download%20(3).gif?raw=true" height="50" align="center" style="border-radius:50%">
   Skills
 </h2>
 
@@ -149,7 +149,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpd25xajVyamw2ajVoN25lNjJsOWgwaG93MGgyMzlyeHB1eTYxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/200w.webp" height="50" align="center"> Code, Coffee & C(S)potify
 
 
-<img src="https://github.com/mihirWeb/mihirWeb/blob/main/download%20(1).gif?raw=true" alt="Image header" width="350" align="right">
+<img src="https://github.com/mihirWeb/mihirWeb/blob/main/assets/download%20(1).gif?raw=true" alt="Image header" width="350" align="right">
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
