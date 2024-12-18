@@ -48,7 +48,7 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
-Today's Time: 1 hr 42 mins
+Total Time: 1 hr 42 mins
 
 YAML    1 hr 39 mins    ████████████████████████▒   96.91 %
 Git     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
