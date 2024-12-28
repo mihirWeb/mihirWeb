@@ -48,15 +48,16 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 5 mins
+Total Time: 31 hrs 55 mins
 
-JavaScript   22 hrs 14 mins  █████████████████████▓░░░   86.48 %
-YAML         1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   27 hrs 45 mins  █████████████████████▒░░░   85.26 %
+YAML         1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Java         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
