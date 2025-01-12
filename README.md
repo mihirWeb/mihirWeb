@@ -48,15 +48,15 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 09 January 2025
+From: 15 December 2024 - To: 10 January 2025
 
-Total Time: 80 hrs 37 mins
+Total Time: 84 hrs 51 mins
 
-JavaScript   59 hrs 47 mins  ██████████████████▒░░░░░░   73.58 %
-TypeScript   8 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Java         7 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Bash         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript   63 hrs 15 mins  ██████████████████▒░░░░░░   73.98 %
+TypeScript   9 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Java         7 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Bash         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
