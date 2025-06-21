@@ -48,16 +48,16 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 18 June 2025
+From: 15 December 2024 - To: 19 June 2025
 
-Total Time: 704 hrs 29 mins
+Total Time: 709 hrs
 
-JavaScript   610 hrs 39 mins █████████████████████▓░░░   86.59 %
-Python       26 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Bash         19 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-TypeScript   13 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Java         10 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Git Config   5 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript   615 hrs 10 mins █████████████████████▓░░░   86.67 %
+Python       26 hrs 44 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Bash         19 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   13 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Java         10 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   5 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Other        45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
