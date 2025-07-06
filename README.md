@@ -48,7 +48,7 @@ Dandanan gif - <img src="https://github.com/mihirWeb/mihirWeb/blob/main/download
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 03 July 2025
+From: 15 December 2024 - To: 04 July 2025
 
 Total Time: 774 hrs 4 mins
 
